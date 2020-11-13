@@ -1,0 +1,10 @@
+nltk==3.4.5
+requests==2.23.0
+pandas==1.0.3
+numpy==1.18.1
+boto3==1.14.27
+sagemaker==1.71.0
+pandarallel==1.4.8
+s3fs==0.4.0
+scikit-learn==0.22.1
+jsonlines==1.2.0
