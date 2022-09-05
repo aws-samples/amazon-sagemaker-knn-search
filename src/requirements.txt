@@ -1,7 +1,7 @@
 nltk==3.4.5
 requests==2.23.0
 pandas==1.0.3
-numpy==1.18.1
+numpy==1.22.0
 boto3==1.14.27
 sagemaker==1.71.0
 pandarallel==1.4.8
